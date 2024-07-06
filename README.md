@@ -8,7 +8,7 @@
 <p align="center">
   🌱 I'm currently learning <strong>Computer Vision</strong><br>
   👨‍💻 My portfolio website available at <a href="https://wydoinn.github.io/" target="_blank">wydoinn.github.io</a><br>
-  📫 How to reach me <strong>santhoshs1881@gmail.com</strong>
+  📫 Reach me on <strong>santhoshs1881@gmail.com</strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
