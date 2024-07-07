@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Artificial Intelligence Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wydoinn&label=Profile%20views&color=0e75b6&style=flat" alt="wydoinn" />
-</p>
-
-<p align="center">
   🌱 I'm currently learning <strong>Computer Vision</strong><br>
   👨‍💻 My portfolio website available at <a href="https://wydoinn.github.io/" target="_blank">wydoinn.github.io</a><br>
   📫 Reach me on <strong>santhoshs1881@gmail.com</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wydoinn&label=Profile%20views&color=0e75b6&style=flat" alt="wydoinn" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
