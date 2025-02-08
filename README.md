@@ -3,7 +3,7 @@
 
 <p align="center">
   🌱 I'm currently learning <strong>Computer Vision</strong><br>
-  👨‍💻 My portfolio website available at <a href="https://wydoinn.notion.site/portfolio" target="_blank">wydoinn.notion.site/portfolio target="_blank"</a><br>
+  👨‍💻 My portfolio website available at <a href="https://wydoinn.notion.site/portfolio" target="_blank" target="_blank">wydoinn.notion.site/portfolio</a><br>
   📫 Reach me on <strong>santhoshs1881@gmail.com</strong>
 </p>
 
