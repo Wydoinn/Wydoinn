@@ -5,7 +5,7 @@
 <p align="center">- 🌱 I’m currently learning <strong>Computer Vision</strong></p>
 <p align="center">- 👨‍💻 My portfolio website at <a href="https://wydoinn.notion.site/portfolio">wydoinn.notion.site/portfolio</a></p>
 <p align="center">- 📝 I regularly write articles on <a href="https://dev.to/wydoinn">dev.to/wydoinn</a></p>
-<p align="center">- 📧 How to reach me <strong>santhoshs1881@gmail.com</strong></p>
+<p align="center">- 📧 How to reach me <a href="mailto:santhoshs1881@gmail.com">santhoshs1881@gmail.com</a></p>
 <p align="center">- 👍 Know about my experiences <a href="https://drive.google.com/file/d/1QFT5AX2TMvQgOYFSWEfZczBHFeZe2HBY/view?usp=sharing">resume</a></p>
 <br>
 
