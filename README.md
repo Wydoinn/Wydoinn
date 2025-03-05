@@ -25,10 +25,18 @@
 
 <h3 align="center">Support</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/wydoinn"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wydoinn" /></a>
-  <a href="https://ko-fi.com/wydoinn"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wydoinn" /></a>
+  <a href="https://www.buymeacoffee.com/wydoinn"> 
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  </a>
+  <a href="https://ko-fi.com/wydoinn"> 
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
+  </a>
+  <a href="https://www.paypal.com/paypalme/santhoshhh18"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" height="50" width="210" alt="Donate with PayPal" />
+  </a>
 </p>
 <br>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wydoinn&label=Profile%20views&color=0e75b6&style=flat" alt="wydoinn" /> </p>
 
