@@ -1,50 +1,38 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Santhosh</h1>
+<h3 align="center">A Passionate Artificial Intelligence Developer</h3>
+<br>
 
-# Hey👋, I'm Santhosh
-## A Passionate Artificial Intelligence Developer
+<p align="center">- 🌱 I’m currently learning <strong>Computer Vision</strong></p>
+<p align="center">- 👨‍💻 My portfolio website at <a href="https://wydoinn.notion.site/portfolio">wydoinn.notion.site/portfolio</a></p>
+<p align="center">- 📝 I regularly write articles on <a href="https://dev.to/wydoinn">dev.to/wydoinn</a></p>
+<p align="center">- 📧 How to reach me <strong>santhoshs1881@gmail.com</strong></p>
+<p align="center">- 👍 Know about my experiences <a href="https://drive.google.com/file/d/1QFT5AX2TMvQgOYFSWEfZczBHFeZe2HBY/view?usp=sharing">resume</a></p>
+<br>
 
-🌱 I'm currently learning **Computer Vision**<br>
-👨‍💻 My portfolio website: [wydoinn.notion.site/portfolio](https://wydoinn.notion.site/portfolio)<br>
-📫 Reach me at: **santhoshs1881@gmail.com**
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santhoshs18)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/wydoinn)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/wydoinn)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wydoinn_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wydoinn)
-[![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wydoinn.github.io)
-
-## Languages and Tools
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## AI & Data Science Stack
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-## GitHub Stats
+<h3 align="center">Connect with me</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wydoinn&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+<a href="https://linkedin.com/in/santhoshs18" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhoshs18" height="30" width="40" /></a>
+<a href="https://kaggle.com/wydoinn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wydoinn" height="30" width="40" /></a>
+<a href="https://twitter.com/wydoinn_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wydoinn_" height="30" width="40" /></a>
 </p>
+<br>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+</p>
+<br>
+
+<h3 align="center">Support</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wydoinn&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <a href="https://www.buymeacoffee.com/wydoinn"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wydoinn" /></a>
+  <a href="https://ko-fi.com/wydoinn"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wydoinn" /></a>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Wydoinn" alt="GitHub Streak"/>
-</p>
+<br>
 
-## Support My Work
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/wydoinn)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/santhoshhh18)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wydoinn&label=Profile%20views&color=0e75b6&style=flat" alt="wydoinn" /> </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=wydoinn&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wydoinn&show_icons=true&locale=en&theme=gruvbox" alt="wydoinn" /></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=wydoinn&theme=gruvbox" alt="wydoinn" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wydoinn&theme=gruvbox" alt="wydoinn" /></a> </p>
 
-</div>
