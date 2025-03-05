@@ -31,8 +31,10 @@
   <a href="https://ko-fi.com/wydoinn"> 
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
   </a>
+</p>
+<p align="center">
   <a href="https://www.paypal.com/paypalme/santhoshhh18"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" height="50" width="210" alt="Donate with PayPal" />
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" alt="Donate with PayPal" />
   </a>
 </p>
 <br>
