@@ -16,7 +16,6 @@
 </div>
 
 
-<br>
 <div align="center">
   <h2>🔗 Connect with Me</h2>
 <p align="center">
@@ -33,7 +32,6 @@
 </div>
 
 
-<br>
 <div align="center">
   <h2>🛠️ Languages and Tools</h2>
 <p align="center">
@@ -55,7 +53,6 @@
 </div>
 
 
-<br>
 <div align="center">
   <h2>📊 GitHub Stats</h2>
 <p align="center">
@@ -72,7 +69,6 @@
 </div>
 
 
-<br>
 <div align="center">
   <h2>☕ Support Me</h2>
 <p align="center">
