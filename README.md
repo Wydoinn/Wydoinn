@@ -76,7 +76,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
   <a href="https://ko-fi.com/wydoinn">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
+    <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png" height="50" width="210" alt="Ko-fi" />
   </a>
   <a href="https://www.paypal.com/paypalme/santhoshhh18">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" alt="Donate with PayPal" />
