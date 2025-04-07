@@ -9,7 +9,7 @@
 <div align="center">
   <h2>🚀 About Me</h2>
   <p>🌱 I'm currently learning <strong>Computer Vision</strong></p>
-  <p>👨‍💻 My portfolio: <a href="https://santhoshhh.notion.site/portfolio">wydoinn.notion.site/portfolio</a></p>
+  <p>👨‍💻 My portfolio: <a href="https://santhoshhh.notion.site/portfolio">santhoshhh.notion.site/portfolio</a></p>
   <p>📝 I write articles on <a href="https://dev.to/wydoinn">dev.to/wydoinn</a></p>
   <p>📄 My Resume: <a href="https://drive.google.com/file/d/1QFT5AX2TMvQgOYFSWEfZczBHFeZe2HBY/view?usp=sharing">View Here</a></p>
   <p>📧 Reach me at: <a href="mailto:santhoshs1881@gmail.com">santhoshs1881@gmail.com</a></p>
