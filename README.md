@@ -72,7 +72,7 @@
   </a>
   <br>
   <a href="https://www.paypal.com/paypalme/santhoshhh18">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" alt="Donate with PayPal" />
+    <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/PNG/blue.png?raw=true" height="50" width="210" alt="Donate with PayPal" />
   </a>
 </p>
 </div>
