@@ -68,7 +68,7 @@
   <h2>☕ Support Me</h2>
 <p align="center">
   <a href="https://www.buymeacoffee.com/wydoinn">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=wydoinn&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" height="50" width="210" alt="Buy Me a Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
   </a>
   <br>
   <a href="https://www.paypal.com/paypalme/santhoshhh18">
