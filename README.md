@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=wydoinn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-
+<br>
 <div align="center">
   <h2>🚀 About Me</h2>
   <p>🌱 I'm currently learning <strong>Computer Vision</strong></p>
@@ -15,7 +15,7 @@
   <p>📧 Reach me at: <a href="mailto:santhoshs1881@gmail.com">santhoshs1881@gmail.com</a></p>
 </div>
 
-
+<br>
 <div align="center">
   <h2>🔗 Connect with Me</h2>
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 </div>
 
-
+<br>
 <div align="center">
   <h2>🛠️ Languages and Tools</h2>
 <p align="center">
@@ -52,7 +52,7 @@
 </p>
 </div>
 
-
+<br>
 <div align="center">
   <h2>📊 GitHub Stats</h2>
 <p align="center">
@@ -63,13 +63,14 @@
 </p>
 </div>
 
-
+<br>
 <div align="center">
   <h2>☕ Support Me</h2>
 <p align="center">
   <a href="https://www.buymeacoffee.com/wydoinn">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
   </a>
+  <br>
   <br>
   <a href="https://www.paypal.com/paypalme/santhoshhh18">
     <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/PNG/blue.png?raw=true" height="50" width="210" alt="Donate with PayPal" />
