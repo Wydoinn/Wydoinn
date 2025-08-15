@@ -5,7 +5,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wydoinn&label=Profile%20Views&color=0e75b6&style=flat)
 
----
 
 ## 🔗 Links
 <p align="center">
@@ -26,7 +25,6 @@
   </a>
 </p>
 
----
 
 ## 🛠️ Languages & Tools
 <table align="center">
@@ -88,7 +86,6 @@
   </tr>
 </table>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -96,7 +93,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wydoinn&theme=gruvbox" height="150" />
 </p>
 
----
 
 ## ☕ Support My Work
 <p align="center">
@@ -109,7 +105,6 @@
   </a>
 </p>
 
----
 
 ⭐ **Thank you for visiting my profile!** 🚀
 
