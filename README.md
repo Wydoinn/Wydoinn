@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi 👋, I'm Santhosh
 ### AI/ML Developer
 
@@ -5,25 +7,29 @@
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **Generative AI**  
-- 👨‍💻 [**My Portfolio**](https://santhoshhh.notion.site/portfolio)  
-- 📝 I share articles on [**Dev.to**](https://dev.to/wydoinn)  
-- 📄 [**View My Resume**](https://drive.google.com/file/d/1Wz0QBHq0qMQy3YvSykc0oXUev7VgASuQ/view?usp=share_link)  
-- 📧 Reach me at **santhoshs1881@gmail.com**
+## 🔗 Links
+<p align="center">
+  <a href="https://santhoshhh.notion.site/portfolio">
+    <img src="https://img.shields.io/badge/My%20Portfolio-white?style=for-the-badge&logo=notion&logoColor=black" />
+  </a>&nbsp;&nbsp;
+  <a href="https://dev.to/wydoinn">
+    <img src="https://img.shields.io/badge/Dev.to-333333?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1Wz0QBHq0qMQy3YvSykc0oXUev7VgASuQ/view?usp=share_link">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/santhoshs18">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/wydoinn">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
 
 ---
-
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santhoshs18)  
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wydoinn_)
-
----
-
 
 ## 🛠️ Languages & Tools
-
-<table>
+<table align="center">
   <tr>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /><br>Python
@@ -82,11 +88,10 @@
   </tr>
 </table>
 
-
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wydoinn&show_icons=true&theme=gruvbox" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wydoinn&theme=gruvbox" height="150" />
 </p>
@@ -94,13 +99,18 @@
 ---
 
 ## ☕ Support My Work
-<a href="https://www.buymeacoffee.com/wydoinn">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
-</a>  
-<a href="https://www.paypal.com/paypalme/santhoshhh18">
-  <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/PNG/blue.png?raw=true" width="150" alt="Donate with PayPal" />
-</a>
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/santhoshhh18">
+    <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/PNG/blue.png?raw=true" width="170" alt="Donate with PayPal" />
+  </a>
+  <br><br>
+  <a href="https://www.buymeacoffee.com/wydoinn">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="170" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
 ⭐ **Thank you for visiting my profile!** 🚀
+
+</div>
