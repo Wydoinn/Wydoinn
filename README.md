@@ -19,10 +19,10 @@
     <img src="https://img.shields.io/badge/Dev.to-333333?style=for-the-badge&logo=dev.to&logoColor=white" height="40" width="100" />
   </a>&nbsp;&nbsp;
   <a href="https://santhoshhh.notion.site/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=notion&logoColor=black" height="40" width="129" />
+    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=notion&logoColor=black" height="40" width="125" />
   </a>&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1Wz0QBHq0qMQy3YvSykc0oXUev7VgASuQ/view?usp=share_link">
-    <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" height="40" width="109" />
+    <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" height="40" width="105" />
   </a>
 </p>
 
