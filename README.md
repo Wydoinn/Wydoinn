@@ -5,7 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wydoinn&label=Profile%20Views&color=0e75b6&style=flat)
 
-
+<br><br>
 ## 🔗 Links
 <p align="center">
   <a href="https://linkedin.com/in/santhoshs18">
@@ -27,7 +27,7 @@
 </p>
 
 
-
+<br><br>
 ## 🛠️ Languages & Tools
 <table align="center">
   <tr>
@@ -88,14 +88,14 @@
   </tr>
 </table>
 
-
+<br><br>
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wydoinn&show_icons=true&theme=gruvbox" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wydoinn&theme=gruvbox" height="150" />
 </p>
 
-
+<br><br>
 ## ☕ Support My Work
 <p align="center">
   <a href="https://www.paypal.com/paypalme/santhoshhh18">
