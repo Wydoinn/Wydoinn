@@ -8,22 +8,24 @@
 
 ## 🔗 Links
 <p align="center">
-  <a href="https://santhoshhh.notion.site/portfolio">
-    <img src="https://img.shields.io/badge/My%20Portfolio-white?style=for-the-badge&logo=notion&logoColor=black" />
-  </a>&nbsp;&nbsp;
-  <a href="https://dev.to/wydoinn">
-    <img src="https://img.shields.io/badge/Dev.to-333333?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1Wz0QBHq0qMQy3YvSykc0oXUev7VgASuQ/view?usp=share_link">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/santhoshs18">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" width="100" />
   </a>&nbsp;&nbsp;
   <a href="https://www.kaggle.com/wydoinn">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40" width="105" />
+  </a>
+  <br><br>
+  <a href="https://dev.to/wydoinn">
+    <img src="https://img.shields.io/badge/Dev.to-333333?style=for-the-badge&logo=dev.to&logoColor=white" height="40" width="100" />
+  </a>&nbsp;&nbsp;
+  <a href="https://santhoshhh.notion.site/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=notion&logoColor=black" height="40" width="120" />
+  </a>&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1Wz0QBHq0qMQy3YvSykc0oXUev7VgASuQ/view?usp=share_link">
+    <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" height="40" width="100" />
   </a>
 </p>
+
 
 
 ## 🛠️ Languages & Tools
