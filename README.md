@@ -85,6 +85,14 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wydoinn&show_icons=true&theme=gruvbox" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wydoinn&theme=gruvbox" height="150" />
+</p>
+
+---
+
 ## ☕ Support My Work
 <a href="https://www.buymeacoffee.com/wydoinn">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
