@@ -98,12 +98,12 @@
 <br><br>
 ## ☕ Support My Work
 <p align="center">
-  <a href="https://www.paypal.com/paypalme/santhoshhh18">
-    <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/PNG/blue.png?raw=true" width="170" alt="Donate with PayPal" />
+  <a href="https://www.buymeacoffee.com/wydoinn">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
   </a>
   <br><br>
-  <a href="https://www.buymeacoffee.com/wydoinn">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="170" alt="Buy Me A Coffee" />
+  <a href="https://www.paypal.com/paypalme/santhoshhh18">
+    <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/PNG/blue.png?raw=true" width="170" alt="Donate with PayPal" />
   </a>
 </p>
 
