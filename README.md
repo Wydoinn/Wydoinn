@@ -13,11 +13,12 @@ Crafting intelligence with code, data & design
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santhoshs18)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/wydoinn)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/wydoinn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://santhoshhh.notion.site/portfolio)
-[![Resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Wz0QBHq0qMQy3YvSykc0oXUev7VgASuQ/view?usp=share_link)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40">](https://linkedin.com/in/santhoshs18)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="40" height="40">](https://www.kaggle.com/wydoinn)&nbsp;&nbsp;
+[<img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2F78hs31fax49uwy6kbxyw.png" width="40" height="40">](https://dev.to/wydoinn)&nbsp;&nbsp;
+[<img src="https://img.icons8.com/?size=100&id=LoyAjcvVKv1K&format=png&color=000000" width="40" height="40">](https://santhoshhh.notion.site/portfolio)&nbsp;&nbsp;
+[<img src="https://img.icons8.com/?size=100&id=bskQEfQJvdO4&format=png&color=000000" width="40" height="40">](https://drive.google.com/file/d/1Wz0QBHq0qMQy3YvSykc0oXUev7VgASuQ/view?usp=share_link)
+
 
 </div>
 
