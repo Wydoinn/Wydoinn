@@ -62,6 +62,8 @@ Crafting intelligence with code, data & design
 ### 🤖 AI/ML Frameworks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="40" />
+<img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e61_Ultralytics_mark_blue.svg" height="40" width="40" />
+
 </td>
 </tr>
 </table>
@@ -75,7 +77,6 @@ Crafting intelligence with code, data & design
 
 <img src="https://github-readme-stats.vercel.app/api?username=wydoinn&show_icons=true&theme=tokyonight&border_radius=16&border_color=6366f1" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wydoinn&theme=tokyonight&border_radius=16&border=6366f1" />
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wydoinn&layout=compact&theme=tokyonight&border_radius=16&border_color=6366f1" />
 
 </div>
 
