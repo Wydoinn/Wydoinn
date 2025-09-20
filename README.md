@@ -62,8 +62,6 @@ Crafting intelligence with code, data & design
 ### 🤖 AI/ML Frameworks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="40" />
-<img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e61_Ultralytics_mark_blue.svg" height="40" width="40" />
-
 </td>
 </tr>
 </table>
