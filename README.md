@@ -36,7 +36,6 @@ Crafting intelligence with code, data & design
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" />
 
 </td>
 <td align="center" valign="top">
@@ -57,7 +56,6 @@ Crafting intelligence with code, data & design
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" />
 <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" height="40" width="40" />
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" width="40" />
 
 </td>
 <td align="center" valign="top">
