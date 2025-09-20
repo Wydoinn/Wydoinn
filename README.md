@@ -1,15 +1,15 @@
 <div align="center">
 
-
 # Santhosh — AI/ML Developer  
 Crafting intelligence with code, data & design
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wydoinn&label=Profile%20Views&color=6366f1&style=for-the-badge)
 
 </div>
 
 <div align="center">
+
+<br><br>
 
 ## 🌐 Connect With Me
 
@@ -23,7 +23,10 @@ Crafting intelligence with code, data & design
 
 <div align="center">
 
+<br><br>
+
 ## 🚀 Tech Stack
+
 <table>
 <tr>
 <td align="center" valign="top">
@@ -68,10 +71,11 @@ Crafting intelligence with code, data & design
 </tr>
 </table>
 
-
 </div>
 
 <div align="center">
+
+<br><br>
 
 ## 📈 GitHub Analytics
 
@@ -82,8 +86,10 @@ Crafting intelligence with code, data & design
 
 <div align="center">
 
+<br><br>
 
 ## ☕ Fuel My Work  
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/wydoinn">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee" />
@@ -93,6 +99,8 @@ Crafting intelligence with code, data & design
     <img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/PNG/blue.png" width="200" alt="Donate with PayPal" />
   </a>
 </p>
+
+<br><br>
 
 **Thanks for stopping by!** ✨ 
 
