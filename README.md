@@ -79,7 +79,7 @@ Crafting intelligence with code, data & design
 ## 📈 GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=wydoinn&show_icons=true&theme=tokyonight&border_radius=16&border_color=6366f1" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wydoinn&theme=tokyonight&border_radius=16&border=6366f1" />
+<img src="https://streak-stats.demolab.com?user=wydoinn&theme=tokyonight&border_radius=16&border=6366f1" />
 
 </div>
 
