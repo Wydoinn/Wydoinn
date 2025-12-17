@@ -17,7 +17,7 @@ Crafting intelligence with code, data & design
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="40" height="40">](https://www.kaggle.com/wydoinn)&nbsp;&nbsp;
 [<img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2F78hs31fax49uwy6kbxyw.png" width="40" height="40">](https://dev.to/wydoinn)&nbsp;&nbsp;
 [<img src="https://img.icons8.com/?size=100&id=LoyAjcvVKv1K&format=png&color=000000" width="40" height="40">](https://santhoshhh.notion.site/portfolio)&nbsp;&nbsp;
-[<img src="https://img.icons8.com/?size=100&id=bskQEfQJvdO4&format=png&color=000000" width="40" height="40">](https://drive.google.com/drive/folders/1G31GEZR_O19wqHgDCCqsWoogo5Zj0rCw)
+[<img src="https://img.icons8.com/?size=100&id=bskQEfQJvdO4&format=png&color=000000" width="40" height="40">](https://drive.google.com/file/d/1yFluGstKBZH6shAb97qCNfsHbzx3yPRi/view?usp=sharing)
 
 
 </div>
