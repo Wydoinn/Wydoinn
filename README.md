@@ -8,7 +8,7 @@ Crafting intelligence with code, data & design
 </div>
 
 <div align="center">
-
+  
 <br><br>
 
 ## 🌐 Connect With Me
@@ -79,6 +79,7 @@ Crafting intelligence with code, data & design
 ## 📈 GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=wydoinn&show_icons=true&theme=tokyonight&border_radius=16&border_color=6366f1" />
+<br><br>
 <img src="https://streak-stats.demolab.com?user=wydoinn&theme=tokyonight&border_radius=16&border=6366f1" />
 
 </div>
